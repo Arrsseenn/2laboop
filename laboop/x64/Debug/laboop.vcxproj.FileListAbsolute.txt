@@ -1,0 +1,6 @@
+C:\Users\Арсен\source\repos\laboop\laboop\x64\Debug\laboop.vcxproj.AssemblyReference.cache
+C:\Users\Арсен\source\repos\laboop\laboop\x64\Debug\laboop.MyForm.resources
+C:\Users\Арсен\source\repos\laboop\laboop\x64\Debug\laboop.MyForm1.resources
+C:\Users\Арсен\source\repos\laboop\laboop\x64\Debug\laboop.vcxproj.GenerateResource.cache
+C:\Users\Арсен\source\repos\laboop\laboop\x64\Debug\laboop.exe
+C:\Users\Арсен\source\repos\laboop\laboop\x64\Debug\laboop.MyForm2.resources

@@ -1,0 +1,4 @@
+﻿  HotelSystem.cpp
+C:\Users\Арсен\source\repos\laboop\laboop\MyForm2.h(26,12): warning C4101: 'client': unreferenced local variable
+  HotelSystem.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  laboop.vcxproj -> C:\Users\Арсен\source\repos\laboop\x64\Debug\laboop.exe
